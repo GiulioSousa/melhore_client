@@ -1,0 +1,4 @@
+/vendor
+/dbbkp
+/public/assets/img
+/src/Infra/EntityManagerCreator.php
